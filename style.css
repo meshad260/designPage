@@ -1,0 +1,15 @@
+<style>
+table, th, td {
+    border: 1px solid black;
+}
+    </style>
+    <style>
+        div {
+          background-color: lightgrey;
+          width: 1200px;
+          border: 15px solid rgb(128, 47, 0);
+          padding: 100px;
+          margin: 20px;
+        }
+        </style>
+        
